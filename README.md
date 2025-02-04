@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Louise  
 
 - 😄 Here's my GitHub - I develop simple scripts and tools for fun.
-- 🔭 I currently work as a pentester.
+- 🔭 I'm a pentester.
 - 🌱 I'm preparing for my final OffSec certification, OSED.
 - 📫 Sometimes, I participate in bug hunting.
   
