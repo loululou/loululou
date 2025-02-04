@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Louise  
 
+- 😄 Here's my GitHub - I develop simple scripts and tools for fun.
+- 🔭 I currently work as a pentester.
+- 🌱 I'm preparing for my final OffSec certification, OSED.
+- 📫 Sometimes, I participate in bug hunting.
+  
 <!--
 **loululou/loululou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
